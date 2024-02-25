@@ -5,10 +5,10 @@ O programa permite a criação, leitura, adição e exclusão de arquivos CSV.
 
 Funcionalidades(ou serviços):
 
-.Criação: Cria um novo arquivo CSV com o nome especificado.
-.Leitura: Lê o conteúdo de um arquivo CSV e o exibe na tela.
-.Adição: Adiciona novos elementos a um arquivo CSV existente.
-.Exclusão: Exclui um arquivo CSV.
+Criação: Cria um novo arquivo CSV com o nome especificado.
+Leitura: Lê o conteúdo de um arquivo CSV e o exibe na tela.
+Adição: Adiciona novos elementos a um arquivo CSV existente.
+Exclusão: Exclui um arquivo CSV.
 
 O programa disponibiliza, mesmo que de forma básica:
 
