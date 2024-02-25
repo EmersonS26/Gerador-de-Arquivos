@@ -1,17 +1,18 @@
-# Gerador-de-Arquivos CSV em Python
+# Gerador-de-Arquivos CSV em Python. ![image](https://github.com/EmersonS26/Gerador-de-Arquivos/assets/132622930/02ff1940-6c6a-4938-8920-96a91ecece49)
+
 Em resumo, o programa é uma ferramenta completa para gerenciar arquivos CSV em python.
 
 O programa permite a criação, leitura, adição e exclusão de arquivos CSV.
 
 Funcionalidades(ou serviços):
 
-Criação: Cria um novo arquivo CSV com o nome especificado.
+1-Criação: Cria um novo arquivo CSV com o nome especificado.
 
-Leitura: Lê o conteúdo de um arquivo CSV e o exibe na tela.
+2-Leitura: Lê o conteúdo de um arquivo CSV e o exibe na tela.
 
-Adição: Adiciona novos elementos a um arquivo CSV existente.
+3-Adição: Adiciona novos elementos a um arquivo CSV existente.
 
-Exclusão: Exclui um arquivo CSV.
+4-Exclusão: Exclui um arquivo CSV.
 
 O programa disponibiliza, mesmo que de forma básica:
 
