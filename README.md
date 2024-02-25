@@ -1,4 +1,4 @@
-# Gerador-de-Arquivos CSV em Python. ![image](https://github.com/EmersonS26/Gerador-de-Arquivos/assets/132622930/02ff1940-6c6a-4938-8920-96a91ecece49)
+# Gerador-de-Arquivos CSV em Python. <a href="https://www.flaticon.com/br/icones-gratis/pitao" title="pitão ícones">Pitão ícones criados por Freepik - Flaticon</a>
 
 Em resumo, o programa é uma ferramenta completa para gerenciar arquivos CSV em python.
 
