@@ -1,4 +1,4 @@
-# Gerador-de-Arquivos
+# Gerador-de-Arquivos CSV em Python
 Em resumo, o programa é uma ferramenta completa para gerenciar arquivos CSV em python.
 
 O programa permite a criação, leitura, adição e exclusão de arquivos CSV.
